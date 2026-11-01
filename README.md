@@ -1,3 +1,15 @@
+# What If Animation — frame examples fork
+
+Public fork of [kelano86/what-if-animation](https://github.com/kelano86/what-if-animation), with an original café open-mic scene for **“आने दो”**.
+
+![आने दो — stage wide](examples/aane-do/wide.png)
+
+[Browse all three example frames, Hindi script and render instructions](examples/aane-do/README.md) · [Scene source](studio/src/AaneDoWhatIfFrame.tsx)
+
+These additions are still-frame examples. The original skill, engine, sample episodes and attribution continue below.
+
+---
+
 # What If animation: a free skill for Claude Code and OpenCode
 
 Type one line, "What if you could rewind 10 seconds?", and get a finished 15-25 second animated episode in the
